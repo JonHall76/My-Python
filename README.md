@@ -80,8 +80,5 @@ Building interactive console applications
 
 📁 Project Contents
 
-Python script files from exercises
-Completed Colab notebooks
-Logic-based mini‑projects (FizzBuzz, ATM simulator, etc.)
-Notes and examples from bootcamp sessions
+[Python Exercises](https://colab.research.google.com/drive/1sIuwH4R3glt1gzsQlYyEKXKmirEV48bj)
 
